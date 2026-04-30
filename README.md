@@ -76,19 +76,6 @@ interests: [Mobile Apps, AI/ML, Clean Architecture, UI/UX Design]
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=malikhaider1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikha499@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malikhaider1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malikhaider1)
-
-</div>
-
 ---
 
 <div align="center">
