@@ -17,37 +17,27 @@
 
 ### 👨‍💻 About Me
 
-<div align="center">
-  <i>Full-stack developer turning ideas into shipped products — from the first sketch to the App Store, the API, and the website behind it.</i>
-</div>
+<img align="right" width="400" src="assets/about-illustration.svg" alt="Developer workspace illustration" />
 
-<br>
+I'm a **full-stack developer** who takes ideas from sketch to shipped product — the mobile app, the API behind it, and the website around it.
 
-```yaml
-name: Malik Haider
-based_in: Pakistan 🌍 (working worldwide)
-role: Full-Stack Developer
-mobile: Flutter → iOS & Android
-backend: Cloudflare Workers, Hono, Node.js, Drizzle ORM, SQLite (D1)
-frontend: React, TypeScript
-currently_building: AI-powered mobile experiences on the edge
-learning: Advanced Cloudflare stack & LLM integrations
-open_to: Freelance projects, collaborations, full-product builds
-```
+**What I work with**
+- 📱 Flutter → iOS & Android apps
+- ⚡ Cloudflare Workers, Hono, Node.js → edge backends
+- 🗄️ Drizzle ORM + SQLite (D1) → data layer
+- 🌐 React + TypeScript → web
 
-- 🔭 **What I do:** Design, build, and ship complete products — the app you tap, the API it talks to, and the website around it
-- 🧠 **How I work:** Clean architecture, typed APIs, and UI that feels effortless — no shortcuts on quality
-- 🌱 **Right now:** Deep into Cloudflare's edge stack (Workers + D1) and weaving AI features into mobile apps
-- 👯 **Let's collaborate:** If it involves mobile apps, backends, or a full product build — I'm interested
-- 💬 **Ask me about:** Flutter, Cloudflare Workers & D1, Hono, Drizzle ORM, React, getting through App Store review
-- ⚡ **Fun fact:** I've survived real App Store rejections and lived to document every lesson
+**Right now**
+- 🌱 Deep into Cloudflare's edge stack and AI-powered app features
+- 🤝 Open for freelance projects and collaborations
+- 💬 Ask me about Flutter, Hono, Drizzle, or surviving App Store review
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/tech-stack.svg" alt="Tech Stack" width="100%" />
+  <img src="assets/tech-stack-banner.svg" alt="Tech Stack" width="100%" />
 </div>
 
 ---
