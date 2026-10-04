@@ -17,8 +17,6 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" width="400" src="assets/about-illustration.svg" alt="Developer workspace illustration" />
-
 I'm a **full-stack developer** who takes ideas from sketch to shipped product — the mobile app, the API behind it, and the website around it.
 
 **What I work with**
@@ -37,7 +35,9 @@ I'm a **full-stack developer** who takes ideas from sketch to shipped product �
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="assets/tech-stack-banner.svg" alt="Tech Stack" width="100%" />
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,android,ios,cloudflare,workers,nodejs,react,ts,js,sqlite,firebase,git,github,vscode,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
+
 </div>
 
 ---
