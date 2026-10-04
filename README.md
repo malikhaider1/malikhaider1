@@ -17,21 +17,30 @@
 
 ### 👨‍💻 About Me
 
+<div align="center">
+  <i>Full-stack developer turning ideas into shipped products — from the first sketch to the App Store, the API, and the website behind it.</i>
+</div>
+
+<br>
+
 ```yaml
 name: Malik Haider
-located_in: Pakistan
+based_in: Pakistan 🌍 (working worldwide)
 role: Full-Stack Developer
-mobile: Flutter (iOS & Android)
+mobile: Flutter → iOS & Android
 backend: Cloudflare Workers, Hono, Node.js, Drizzle ORM, SQLite (D1)
 frontend: React, TypeScript
-focus: Shipping complete products — app, API, and website
+currently_building: AI-powered mobile experiences on the edge
+learning: Advanced Cloudflare stack & LLM integrations
+open_to: Freelance projects, collaborations, full-product builds
 ```
 
-- 🔭 **What I do:** Design, build, and ship complete products — Flutter mobile apps, Cloudflare-powered backends, and modern websites
-- 🌱 **Currently into:** Cloudflare's edge stack (Workers + D1), AI-powered app features, and clean API design
-- 👯 **Open to collaborate on:** Mobile apps, backend/API platforms, and full-stack projects
-- 💬 **Ask me about:** Flutter, Cloudflare Workers & D1, Hono, Drizzle ORM, React, App Store submissions
-- ⚡ **Fun fact:** I take ideas from sketch to the App Store — app, backend, and website included
+- 🔭 **What I do:** Design, build, and ship complete products — the app you tap, the API it talks to, and the website around it
+- 🧠 **How I work:** Clean architecture, typed APIs, and UI that feels effortless — no shortcuts on quality
+- 🌱 **Right now:** Deep into Cloudflare's edge stack (Workers + D1) and weaving AI features into mobile apps
+- 👯 **Let's collaborate:** If it involves mobile apps, backends, or a full product build — I'm interested
+- 💬 **Ask me about:** Flutter, Cloudflare Workers & D1, Hono, Drizzle ORM, React, getting through App Store review
+- ⚡ **Fun fact:** I've survived real App Store rejections and lived to document every lesson
 
 ---
 
@@ -50,22 +59,20 @@ focus: Shipping complete products — app, API, and website
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [shopping_app](https://github.com/malikhaider1/shopping_app) | Brand shopping application — mobile app backed by its own API | Flutter, Hono, TypeScript |
-| [top_quotes](https://github.com/malikhaider1/top_quotes) | Beautifully designed quotes app | Flutter, Dart |
-| [watchyou](https://github.com/malikhaider1/watchyou) | Dynamic movie information app | Flutter, Dart |
-| [picturapulse](https://github.com/malikhaider1/picturapulse) | Flutter exploration project | Flutter, Dart |
-
----
-
-### 📊 GitHub Stats
+### 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikhaider1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikhaider1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikhaider1&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikhaider1&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikhaider1&theme=tokyonight" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikhaider1&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikhaider1&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
