@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Malik+Haider;Flutter+Developer+%7C+AI+Enthusiast;Building+Beautiful+%26+Functional+Apps!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Malik+Haider;Full-Stack+Developer;Flutter+Apps+%7C+Cloudflare+Backends+%7C+Websites!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,17 +16,18 @@
 ```yaml
 name: Malik Haider
 located_in: Pakistan
-current_focus: Flutter Development & AI Integration
-company: Freelance Mobile Developer
-interests: [Mobile Apps, AI/ML, Clean Architecture, UI/UX Design]
+role: Full-Stack Developer
+mobile: Flutter (iOS & Android)
+backend: Cloudflare Workers, Hono, Node.js, Drizzle ORM, SQLite (D1)
+frontend: React, TypeScript
+focus: Shipping complete products — app, API, and website
 ```
 
-- 🔭 **Current Project:** Building a Flutter-based Recipe Sharing App with AI-driven suggestions
-- 🌱 **Learning:** Advanced Flutter, OpenAI API integrations, and backend optimizations
-- 👯 **Open to Collaborate:** Flutter apps, AI-powered projects, and API-driven platforms
-- 💡 **Passionate About:** Mobile app development, AI automation, and clean UI/UX design
-- 💬 **Ask Me About:** Flutter, Firebase, OpenAI APIs, and building scalable mobile applications
-- ⚡ **Fun Fact:** I love turning ideas into functional and beautiful apps!
+- 🔭 **What I do:** Design, build, and ship complete products — Flutter mobile apps, Cloudflare-powered backends, and modern websites
+- 🌱 **Currently into:** Cloudflare's edge stack (Workers + D1), AI-powered app features, and clean API design
+- 👯 **Open to collaborate on:** Mobile apps, backend/API platforms, and full-stack projects
+- 💬 **Ask me about:** Flutter, Cloudflare Workers & D1, Hono, Drizzle ORM, React, App Store submissions
+- ⚡ **Fun fact:** I take ideas from sketch to the App Store — app, backend, and website included
 
 ---
 
@@ -34,27 +35,47 @@ interests: [Mobile Apps, AI/ML, Clean Architecture, UI/UX Design]
 
 <div align="center">
 
-#### Mobile Development
+#### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-#### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+#### ⚙️ Backend
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### AI & APIs
+#### 🌐 Frontend / Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🤖 AI & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### Tools & Platforms
+#### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [shopping_app](https://github.com/malikhaider1/shopping_app) | Brand shopping application — mobile app backed by its own API | Flutter, Hono, TypeScript |
+| [top_quotes](https://github.com/malikhaider1/top_quotes) | Beautifully designed quotes app | Flutter, Dart |
+| [watchyou](https://github.com/malikhaider1/watchyou) | Dynamic movie information app | Flutter, Dart |
+| [picturapulse](https://github.com/malikhaider1/picturapulse) | Flutter exploration project | Flutter, Dart |
 
 ---
 
@@ -90,7 +111,7 @@ interests: [Mobile Apps, AI/ML, Clean Architecture, UI/UX Design]
 
 <div align="center">
   
-**Thanks for visiting! Feel free to explore my repositories and reach out for collaborations!** 🚀
+**Thanks for visiting! Got a project in mind — a mobile app, a backend, or a full product? Let's build it.** 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=malikhaider1&color=00D9FF&style=for-the-badge)
 
