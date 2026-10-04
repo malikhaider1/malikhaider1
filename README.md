@@ -1,11 +1,15 @@
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B61FF&height=220&section=header&text=Malik%20Haider&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Cloudflare%20%E2%80%A2%20React&descSize=20&descAlignY=58" alt="header"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Malik+Haider;Full-Stack+Developer;Flutter+Apps+%7C+Cloudflare+Backends+%7C+Websites!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I+build+mobile+apps+that+ship;Backends+on+the+edge+with+Cloudflare;APIs+with+Hono+%2B+Drizzle+%2B+D1;Websites+with+React+%26+TypeScript" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/malikhaider1?label=Followers&style=social)](https://github.com/malikhaider1)
-[![GitHub stars](https://img.shields.io/github/stars/malikhaider1?label=Stars&style=social)](https://github.com/malikhaider1)
+
+[![GitHub followers](https://img.shields.io/github/followers/malikhaider1?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/malikhaider1)
+[![GitHub stars](https://img.shields.io/github/stars/malikhaider1?label=Stars&style=for-the-badge&color=7B61FF)](https://github.com/malikhaider1)
+![Profile Views](https://komarev.com/ghpvc/?username=malikhaider1&color=00D9FF&style=for-the-badge)
 
 </div>
 
@@ -35,34 +39,12 @@ focus: Shipping complete products — app, API, and website
 
 <div align="center">
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,android,ios,cloudflare,workers,nodejs,react,ts,js,sqlite,firebase,git,github,vscode,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
 
-#### ⚙️ Backend
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🌐 Frontend / Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🤖 AI & APIs
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -97,22 +79,16 @@ focus: Shipping complete products — app, API, and website
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=malikhaider1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
+
 ---
 
 <div align="center">
-  
+
 ### 💭 Quote of the Day
-  
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
-
-<div align="center">
-  
-**Thanks for visiting! Got a project in mind — a mobile app, a backend, or a full product? Let's build it.** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=malikhaider1&color=00D9FF&style=for-the-badge)
-
-</div>
+<!-- Animated wave footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00D9FF&height=160&section=footer&text=Let's%20build%20something%20great&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="footer"/>
