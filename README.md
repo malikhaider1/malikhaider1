@@ -45,21 +45,21 @@ I'm a **full-stack developer** who takes ideas from sketch to shipped product â€
 ### ðŸ“Š Stats & Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikhaider1&theme=tokyonight" alt="Profile Details"/>
+  <img height="130" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikhaider1&theme=tokyonight" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikhaider1&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikhaider1&theme=tokyonight" alt="Productive Time"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikhaider1&theme=tokyonight" alt="Stats"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikhaider1&theme=tokyonight" alt="Productive Time"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikhaider1&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikhaider1&theme=tokyonight" alt="Most Commit Language"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikhaider1&theme=tokyonight" alt="Repos per Language"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikhaider1&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikhaider1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=malikhaider1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
