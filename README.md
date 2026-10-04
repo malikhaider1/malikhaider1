@@ -47,14 +47,7 @@ open_to: Freelance projects, collaborations, full-product builds
 ### 🛠️ Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,android,ios,cloudflare,workers,nodejs,react,ts,js,sqlite,firebase,git,github,vscode,androidstudio&theme=dark&perline=8)](https://skillicons.dev)
-
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
+  <img src="assets/tech-stack.svg" alt="Tech Stack" width="100%" />
 </div>
 
 ---
